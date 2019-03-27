@@ -1,0 +1,1 @@
+dotnet benchmark bin\Release\netcoreapp2.2\DictionaryBenchmark.dll --runtimes netcoreapp2.2 netcoreapp3.0 --filter *
